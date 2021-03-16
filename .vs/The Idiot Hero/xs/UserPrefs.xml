@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BCB33441-4E69-A7C1-D0CD-AC6503D7CC4B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleCameraController.cs" Line="70" Column="38" />
+      <File FileName="Assets/Scripts/PlayerMover.cs" Line="107" Column="1" />
+      <File FileName="Assets/Scripts/PossesionManager.cs" Line="79" Column="33" />
+      <File FileName="Assets/Scripts/FreeCam.cs" Line="8" Column="15" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The Idiot Hero" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="171e6f71-cb55-461f-b027-657240eed91e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
